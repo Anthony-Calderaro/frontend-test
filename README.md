@@ -1,29 +1,6 @@
-# Upright Labs Frontend Test
-
-You'll need to develop a web UI that is capable of recording the mouse of a user. The app needs to record the mouse positions, persist it to a local database, then be able to replay the mouse positions on the screen.
+# Mouse Tracker
 
 Here's a video demo https://www.useloom.com/share/bf207dc338c146899b4c0d40b1dec1e5.
-
-### Requirements
-
-- Git
-- Ruby 2+
-- 3-4 Hours Time
-
-### Steps
-
-- Clone this repository
-- In the "Client" directory, create a web UI to record mouse position, fulfills spec below. You can use any frontend libraries or modules.
-- Zip up all supporting files
-- Add instructions on how to run the client
-- Send to jackson@uprightlabs.com
-
-### Model
-
-Recording
-
-- name: string, must be present
-- body: text, must be present, this is where you can put recording data
 
 ### Spec
 
@@ -57,9 +34,6 @@ After we receive your app, we grade it according to the criteria above. If all l
 - migrate the DB (sqlite) with `rails db:migrate`
 - run the server with `rails server`
 
-### Questions
-
-Hit me up at jackson@uprightlabs.com
 
 ### Issues
 
