@@ -1,12 +1,6 @@
-# Upright Labs Frontend Test
+# Mouse Tracker
 
-You'll need to develop a web UI that is capable of recording the mouse of a user. The app needs to record the mouse positions, persist it to a local database, then be able to replay the mouse positions on the screen.
-
-Here's a video demo https://www.useloom.com/share/bf207dc338c146899b4c0d40b1dec1e5.
-
-### Steps
-
-- Send to jackson@uprightlabs.com
+Here's a video demo https://www.useloom.com/share/47f657f461df42c99166ae609ad22710
 
 ### Spec
 
@@ -34,5 +28,8 @@ Find a typo or bug? Submit a pr!
 ### Bug List
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 46897ae371e06054499b1e384b181885dbe8d57c
 
