@@ -1,4 +1,4 @@
-# Mouse Tracker
+# Mouse Trap
 
 Here's a video demo https://www.useloom.com/share/47f657f461df42c99166ae609ad22710
 
